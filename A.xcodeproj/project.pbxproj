@@ -178,14 +178,14 @@
 		7318AA5825CFC97800C048DF /* A */ = {
 			isa = PBXGroup;
 			children = (
-				7318AB1725CFD70B00C048DF /* Targets */,
+				73B734F625DFB9100036E196 /* Targets */,
 				7318AA5A25CFC97800C048DF /* AViewController.h */,
 				7318AA5925CFC97800C048DF /* AViewController.m */,
 			);
 			path = A;
 			sourceTree = "<group>";
 		};
-		7318AB1725CFD70B00C048DF /* Targets */ = {
+		73B734F625DFB9100036E196 /* Targets */ = {
 			isa = PBXGroup;
 			children = (
 				7318AB1025CFD6FD00C048DF /* Target_A.h */,

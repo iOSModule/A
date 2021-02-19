@@ -11,7 +11,7 @@ target 'A' do
 
   # local pods
   # 本地引用
-#  pod "B_Category", :path => "../B_Category"
+  pod "B_Category", :path => "../B_Category"
   
   
   # third part pods
